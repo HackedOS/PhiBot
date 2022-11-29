@@ -14,3 +14,5 @@ __pycache__/
 
 # Local History for Visual Studio Code
 .history/
+
+config.json

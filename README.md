@@ -3,7 +3,10 @@
 A Discord Bot for the PhiTech Technical Minecraft Server
 
 ### Example Config
-```{
+
+`config.json`
+
+````{
     "token":"DISCORD TOKEN HERE",
     "whitelist-role": ROLE WHICH CAN WHITELIST HERE,
     "whitelist" : {
@@ -24,3 +27,4 @@ A Discord Bot for the PhiTech Technical Minecraft Server
         }
     }
 }```
+````
